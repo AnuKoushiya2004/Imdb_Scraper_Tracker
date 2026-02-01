@@ -132,7 +132,7 @@ This project is licensed under the MIT License — free for academic and persona
 Contributions, issues, and feature requests are welcome.
 Feel free to fork the repository and submit a pull request.
 
-⭐ Acknowledgements
+### ⭐ Acknowledgements
 
 IMDb for movie data
 
